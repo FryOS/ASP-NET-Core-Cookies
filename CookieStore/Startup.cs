@@ -28,7 +28,7 @@ namespace CookieStore
             app.UseStaticFiles();
             app.UseMvcWithDefaultRoute();
 
-
+            //Comment test
 
 
             //if (env.IsDevelopment())
