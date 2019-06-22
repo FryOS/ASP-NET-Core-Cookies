@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28714.193
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InetShopApp", "InetShopApp\InetShopApp.csproj", "{F92C55F7-497E-47E4-AD7E-849A088BBD85}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F92C55F7-497E-47E4-AD7E-849A088BBD85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F92C55F7-497E-47E4-AD7E-849A088BBD85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F92C55F7-497E-47E4-AD7E-849A088BBD85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F92C55F7-497E-47E4-AD7E-849A088BBD85}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EB6EACEA-D840-4F0A-8866-CCE30E7263FA}
+	EndGlobalSection
+EndGlobal
